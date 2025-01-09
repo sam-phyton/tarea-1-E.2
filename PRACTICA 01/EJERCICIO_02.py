@@ -15,3 +15,4 @@ elif edad < 16 and ingresos < 1000:
     print("El usuaio no tiene edad suficiente para tributar")
 else:
     print("error")
+    
